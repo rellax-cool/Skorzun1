@@ -1,4 +1,4 @@
-package selenium;
+package selemium;
 
 /**
  * Hello world!

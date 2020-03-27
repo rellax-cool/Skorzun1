@@ -7,11 +7,11 @@
     <version>1.0-SNAPSHOT</version>
   </parent>
 
-  <groupId>selenium</groupId>
-  <artifactId>pproject2</artifactId>
+  <groupId>selemium</groupId>
+  <artifactId>project2</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>pproject2</name>
+  <name>project2</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
